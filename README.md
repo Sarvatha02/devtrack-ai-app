@@ -1,6 +1,6 @@
 # DevTrack AI
 
-DevTrack AI is a modern, high-converting SaaS landing page that showcases a job tracking platform for developers. It focuses on clean UI, strong UX, and conversion-driven design to simulate a real startup product experience.
+DevTrack AI is a modern, high-converting SaaS landing page designed to showcase a job tracking platform for developers. It focuses on clean UI, strong UX, and conversion-driven design — simulating a real startup product experience.
 
 ---
 
@@ -34,21 +34,21 @@ This project demonstrates how a high-quality SaaS landing page communicates valu
 
 ## 📸 Screenshots
 
-### Hero Section
+### 🧭 Hero Section
 
-![Hero](./src/assets/images/desktop_hero.png)
+<img src="./src/assets/images/desktop_hero.png" width="900"/>
 
-### Features Section
+### ⚙️ Features Section
 
-![Features](./src/assets/images/desktop_features.png)
+<img src="./src/assets/images/desktop_features.png" width="900"/>
 
-### Pricing Section
+### 💳 Pricing Section
 
-![Pricing](./src/assets/images/desktop_pricing.png)
+<img src="./src/assets/images/desktop_pricing.png" width="900"/>
 
-### Mobile View
+### 📱 Mobile View
 
-![Mobile](./src/assets/images/mobile_view.png)
+<img src="./src/assets/images/mobile_view.png" width="300"/>
 
 ---
 
@@ -68,7 +68,7 @@ src/
 
 ## 🌐 Live Demo
 
-👉 https://devtrackai.vercel.app/
+👉 **https://devtrackai.vercel.app/**
 
 ---
 
