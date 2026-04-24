@@ -68,14 +68,14 @@ src/
 
 ## 🌐 Live Demo
 
-👉 **https://devtrackai.vercel.app/**
+👉 **[https://devtrack-ai-app.vercel.app/](https://devtrack-ai-app.vercel.app/)**
 
 ---
 
 ## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/Sarvatha02/DevTrack-AI.git
+git clone https://github.com/Sarvatha02/devtrack-ai-app.git
 cd DevTrack-AI
 npm install
 npm run dev
