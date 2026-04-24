@@ -10,7 +10,7 @@ It showcases a job tracking platform for developers with a focus on UI/UX and co
 - Lucide Icons
 
 ## Features
-- Fully responsive landing page (mobile-first)
+- Fully responsive landing page 
 - Animated UI using Framer Motion
 - Interactive pricing and feature cards
 - Conversion-focused layout (CTA-driven)
@@ -20,16 +20,16 @@ It showcases a job tracking platform for developers with a focus on UI/UX and co
 > **Note:** Once you take the actual screenshots of your application, place them in a `public/screenshots/` folder or `src/assets/images/` and update these paths.
 
 ### Desktop - Hero
-![Hero Section](./src/assets/images/dashboard.png) 
+![Hero Section](./src/assets/images/desktop_hero.png)
 
 ### Desktop - Features
-*(Please add your features screenshot here)*
+![Features Section](./src/assets/images/desktop_features.png)
 
 ### Desktop - Pricing
-*(Please add your pricing screenshot here)*
+![Pricing Section](./src/assets/images/desktop_pricing.png)
 
 ### Mobile View
-*(Please add your mobile screenshot here)*
+![Mobile View](./src/assets/images/mobile_view.png)
 
 ## Project Structure
 
