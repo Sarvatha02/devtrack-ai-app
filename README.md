@@ -50,7 +50,7 @@ App.jsx
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here — Vercel or Netlify)
+👉 **(https://devtrackai.vercel.app/)**
 
 ---
 
