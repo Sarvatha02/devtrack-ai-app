@@ -1,78 +1,75 @@
 # DevTrack AI
 
-A modern SaaS landing page built using React, Tailwind CSS, and Framer Motion. 
-It showcases a job tracking platform for developers with a focus on UI/UX and conversion design.
+DevTrack AI is a modern SaaS landing page designed to showcase a job tracking platform for developers. It focuses on clean UI, strong UX, and conversion-driven design to simulate a real startup product experience.
 
-## Tech Stack
-- React (Vite)
-- Tailwind CSS
-- Framer Motion
-- Lucide Icons
+## 🚀 Overview
 
-## Features
-- Fully responsive landing page 
-- Animated UI using Framer Motion
-- Interactive pricing and feature cards
-- Conversion-focused layout (CTA-driven)
+Job searching is often unorganized and inefficient. DevTrack AI presents a solution where developers can track applications, monitor progress, and gain insights — all in one place.
 
-## Screenshots
+This project demonstrates how a high-quality SaaS landing page communicates value, builds trust, and drives user action.
 
-> **Note:** Once you take the actual screenshots of your application, place them in a `public/screenshots/` folder or `src/assets/images/` and update these paths.
+---
 
-### Desktop - Hero
-![Hero Section](./src/assets/images/desktop_hero.png)
+## 🛠 Tech Stack
 
-### Desktop - Features
-![Features Section](./src/assets/images/desktop_features.png)
+* React (Vite)
+* Tailwind CSS
+* Framer Motion (animations)
+* Lucide React (icons)
 
-### Desktop - Pricing
-![Pricing Section](./src/assets/images/desktop_pricing.png)
+---
 
-### Mobile View
-![Mobile View](./src/assets/images/mobile_view.png)
+## ✨ Key Features
 
-## Project Structure
+* Clean, modern SaaS UI design
+* Fully responsive across all devices
+* Smooth animations using Framer Motion
+* Interactive components (cards, pricing, hover effects)
+* Conversion-focused layout with strong CTA placement
+* Structured component-based architecture
+
+---
+
+
+
+---
+
+## 📂 Project Structure
 
 ```text
 src/
-  assets/
-  components/
-    CTA.jsx
-    Features.jsx
-    Footer.jsx
-    Hero.jsx
-    HowItWorks.jsx
-    Navbar.jsx
-    Pricing.jsx
-    ProblemSolution.jsx
-    Stats.jsx
-    Testimonials.jsx
-    Trust.jsx
-  data/
-  hooks/
-  utils/
-  App.jsx
-  index.css
-  main.jsx
+components/
+assets/
+data/
+hooks/
+utils/
+App.jsx
 ```
 
-## Live Demo
-*(Insert your Vercel or Netlify URL here once deployed)*
+---
 
-## Getting Started
+## 🌐 Live Demo
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Sarvatha02/DevTrack-AI.git
-   cd DevTrack-AI
-   ```
+👉 (Add your deployed link here — Vercel or Netlify)
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+---
 
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/Sarvatha02/DevTrack-AI.git
+cd DevTrack-AI
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Focus of This Project
+
+This project emphasizes:
+
+* UI/UX quality over complexity
+* Real-world SaaS design patterns
+* Clean component architecture
+* Conversion-focused layout thinking
