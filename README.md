@@ -50,7 +50,7 @@ App.jsx
 
 ## 🌐 Live Demo
 
-👉 **(https://devtrackai.vercel.app/)**
+👉 **[https://devtrackai.vercel.app/](https://devtrackai.vercel.app/)**
 
 ---
 
